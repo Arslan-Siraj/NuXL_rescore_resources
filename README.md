@@ -8,10 +8,12 @@ Folder contains:
     - feature-config
     - modification file
 
-# Usage
+#### Usage
     NuXL-rescore package: https://github.com/Arslan-Siraj/NuXL_rescore/tree/pckg
 
-**1. Example files for protein-NA XL** from here: https://github.com/Arslan-Siraj/NuXL_rescore_resources/tree/0.0.2
+-----
+
+**2. Example files for protein-nucleic cross-link analysis** from here: https://github.com/Arslan-Siraj/NuXL_rescore_resources/tree/0.0.2
 
 Folder contains:
 
@@ -21,6 +23,6 @@ Folder contains:
     - identification file 1% XL FDR: RNA_DEB_Ecoli_S30_LB_bRPfrac_9_perc_1.0000_XLs.idXML
     - paameter for NuXL:
         TODO
-# Usage:
+#### Usage:
     NuXL-rescore package: https://github.com/Arslan-Siraj/NuXL_rescore/tree/pckg
     NuXL-App: https://github.com/Arslan-Siraj/nuxl-app
