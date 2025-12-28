@@ -9,7 +9,7 @@ Folder contains:
     - modification file
 
 #### Usage
-    NuXL-rescore package: https://github.com/Arslan-Siraj/NuXL_rescore/tree/pckg
+NuXL-rescore package: https://github.com/Arslan-Siraj/NuXL_rescore/tree/pckg
 
 -----
 
@@ -23,6 +23,7 @@ Folder contains:
     - identification file 1% XL FDR: RNA_DEB_Ecoli_S30_LB_bRPfrac_9_perc_1.0000_XLs.idXML
     - paameter for NuXL:
         TODO
+
 #### Usage:
-    NuXL-rescore package: https://github.com/Arslan-Siraj/NuXL_rescore/tree/pckg
-    NuXL-App: https://github.com/Arslan-Siraj/nuxl-app
+NuXL-rescore package: https://github.com/Arslan-Siraj/NuXL_rescore/tree/pckg </br>
+NuXL-App: https://github.com/Arslan-Siraj/nuxl-app
